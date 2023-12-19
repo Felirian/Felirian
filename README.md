@@ -4,8 +4,8 @@
 ## GitHub статистика
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felirian&theme=transparent&hide_border=true&border_radius=0&locale=ru&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 
-<h1 align="center">FELiRiAN</h1>
-<h3>Andrey Kristev</h3>
+<h2 align="center">FELiRiAN</h2>
+<h4>Andrey Kristev</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felirian&label=Profile%20views&color=0e75b6&style=flat" alt="felirian" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felirian" alt="felirian" /></a> </p>
