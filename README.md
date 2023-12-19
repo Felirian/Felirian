@@ -8,8 +8,6 @@
   <h4 align="center">Andrey Kristev</h4>
 </div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/FELiRiAN"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="FELiRiAN" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felirian&show_icons=true&locale=en&layout=compact" alt="felirian" /></p>
 
