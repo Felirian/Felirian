@@ -35,11 +35,11 @@ FELiRiAN <br>Kristev Andrey<br>From St. Petersburg
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 # 📊 GitHub Stats:
-<div algin="center">
-  ![](https://github-readme-stats.vercel.app/api?username=felirian&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+  <p algin='center'>![](https://github-readme-stats.vercel.app/api?username=felirian&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)</p><br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=felirian&theme=transparent&hide_border=true)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felirian&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
+
 
 
 ###  Meme
