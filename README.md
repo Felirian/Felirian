@@ -9,7 +9,7 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felirian&show_icons=true&locale=en&layout=compact" alt="felirian" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felirian&show_icons=true&locale=en" alt="felirian" /></p>
 
