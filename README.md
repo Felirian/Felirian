@@ -35,8 +35,8 @@ FELiRiAN <br>Kristev Andrey<br>From St. Petersburg
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 # 📊 GitHub Stats:
-<img alginItems="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=felirian&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felirian&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=felirian&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felirian&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=felirian&theme=transparent&hide_border=true"/>
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=felirian&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
