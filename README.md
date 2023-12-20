@@ -37,7 +37,7 @@ FELiRiAN <br>Kristev Andrey<br>From St. Petersburg
 # 📊 GitHub Stats:
 <img alginItems='center' src="https://github-readme-stats.vercel.app/api?username=felirian&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=felirian&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=felirian&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=felirian&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
 
 
