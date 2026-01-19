@@ -1,11 +1,4 @@
-# ◾  About Me:
-Kristev Andrey<br>From St. Petersburg
-
-
-
-
-
-# 📊 GitHub Stats:
+Kristev Andrey<br>From St. Petersburg<br>frontend devolper
 <div align="center">
   <div style="display: flex;">
     <!-- <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=felirian&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/> -->
